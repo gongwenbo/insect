@@ -1,0 +1,4 @@
+/home/lenfien/projects/Bug/build/CMakeFiles/edit_cache.dir
+/home/lenfien/projects/Bug/build/CMakeFiles/SimClient.dir
+/home/lenfien/projects/Bug/build/CMakeFiles/rebuild_cache.dir
+/home/lenfien/projects/Bug/build/CMakeFiles/Bug.dir

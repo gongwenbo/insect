@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11   CMakeFiles/SimClient.dir/UnitTest/SimClient.cpp.o  -o SimClient -rdynamic -lpthread -lmysqlcppconn 
